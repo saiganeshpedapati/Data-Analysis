@@ -8,7 +8,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-# Fix ₹ symbol issue
+# Fixing ₹ symbol issue
 plt.rcParams['font.family'] = 'DejaVu Sans'
 
 # Set plot style
